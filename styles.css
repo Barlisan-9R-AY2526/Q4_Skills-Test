@@ -1,0 +1,32 @@
+/* Existing styles */
+body {
+    background-color: #ffb7ea;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: #ffffff;
+    font-weight: 400;
+    text-align: center;
+}
+
+h3 {
+    color: #ffffff;	
+    font-weight: 400;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+}
+
+img {
+    width: 210px;
+    height: 150px; 
+    object-fit: cover;
+}
